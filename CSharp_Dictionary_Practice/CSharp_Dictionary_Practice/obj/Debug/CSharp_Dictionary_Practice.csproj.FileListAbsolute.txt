@@ -1,0 +1,6 @@
+\\stufiles-m.pclab.uhcl.edu\stufiles-m\murthya7617\home\documents\visual studio 2017\Projects\CSharp_Dictionary_Practice\CSharp_Dictionary_Practice\bin\Debug\CSharp_Dictionary_Practice.exe.config
+\\stufiles-m.pclab.uhcl.edu\stufiles-m\murthya7617\home\documents\visual studio 2017\Projects\CSharp_Dictionary_Practice\CSharp_Dictionary_Practice\bin\Debug\CSharp_Dictionary_Practice.exe
+\\stufiles-m.pclab.uhcl.edu\stufiles-m\murthya7617\home\documents\visual studio 2017\Projects\CSharp_Dictionary_Practice\CSharp_Dictionary_Practice\bin\Debug\CSharp_Dictionary_Practice.pdb
+\\stufiles-m.pclab.uhcl.edu\stufiles-m\murthya7617\home\documents\visual studio 2017\Projects\CSharp_Dictionary_Practice\CSharp_Dictionary_Practice\obj\Debug\CSharp_Dictionary_Practice.csprojResolveAssemblyReference.cache
+\\stufiles-m.pclab.uhcl.edu\stufiles-m\murthya7617\home\documents\visual studio 2017\Projects\CSharp_Dictionary_Practice\CSharp_Dictionary_Practice\obj\Debug\CSharp_Dictionary_Practice.exe
+\\stufiles-m.pclab.uhcl.edu\stufiles-m\murthya7617\home\documents\visual studio 2017\Projects\CSharp_Dictionary_Practice\CSharp_Dictionary_Practice\obj\Debug\CSharp_Dictionary_Practice.pdb
